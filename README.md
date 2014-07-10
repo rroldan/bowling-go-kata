@@ -25,8 +25,11 @@ Casos de prueba sugeridos
 • 21 intentos: 10 pares de 5 y spare + 5. 5/5/5/5/5/5/5/5/5/5/5 = 10+5 + 10+5 + 10+5 + 10+5 + 10+5 + 10+5 + 10+5 + 10+5 + 10+5 + 10+5 = 150
 
 Referencias
-• http://www.solveet.com/exercises/Kata-Bowling/10/
+
+http://www.solveet.com/exercises/Kata-Bowling/10/
 
 http://www.youtube.com/watch?v=laSVXHFEJXQ
+
+http://www.youtube.com/watch?v=q4-4x6jWJYU
 
 http://www.youtube.com/watch?v=6tPK9SYXdPY
