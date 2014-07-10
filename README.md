@@ -23,3 +23,5 @@ Casos de prueba sugeridos
 
 Referencias
 • http://www.solveet.com/exercises/Kata-Bowling/10/
+http://www.youtube.com/watch?v=laSVXHFEJXQ
+http://www.youtube.com/watch?v=6tPK9SYXdPY
