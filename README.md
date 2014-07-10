@@ -17,11 +17,16 @@ Bowling Kata
 Casos de prueba sugeridos
 
 • X es un strike, / es un spare y - es nada.
+
 • 12 intentos: 12 strikes. XXXXXXXXXXXX = 10+10+10 + 10+10+10 + 10+10+10 + 10+10+10 + 10+10+10 + 10+10+10 + 10+10+10 + 10+10+10 + 10+10+10 + 10+10+10 = 300
+
 • 20 intentos: 10 pares de 9 y nada. 9-9-9-9-9-9-9-9-9-9- = 9 + 9 + 9 + 9 + 9 + 9 + 9 + 9 + 9 + 9 = 90
+
 • 21 intentos: 10 pares de 5 y spare + 5. 5/5/5/5/5/5/5/5/5/5/5 = 10+5 + 10+5 + 10+5 + 10+5 + 10+5 + 10+5 + 10+5 + 10+5 + 10+5 + 10+5 = 150
 
 Referencias
 • http://www.solveet.com/exercises/Kata-Bowling/10/
+
 http://www.youtube.com/watch?v=laSVXHFEJXQ
+
 http://www.youtube.com/watch?v=6tPK9SYXdPY
